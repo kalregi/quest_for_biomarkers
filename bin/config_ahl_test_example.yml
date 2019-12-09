@@ -1,0 +1,132 @@
+#pipeline specific info
+query_system: 
+    system_short_name: AHL-t
+    profiles: /gfs/computations/quorum-sensing/data/HMM_profiles/AHL/AHL.hmm
+    profile_description: # descripting the proteins inside the profiles
+        LuxI:
+            min_number_of_query_hits: 2
+            abbreviation: I
+            min_protein_length: 0
+            max_protein_length: 10000
+        LuxR:
+            min_number_of_query_hits: 3
+            abbreviation: R
+            min_protein_length: 0
+            max_protein_length: 10000
+        RsaL:
+            min_number_of_query_hits: 1
+            abbreviation: L
+            min_protein_length: 0
+            max_protein_length: 10000
+        RsaM:
+            min_number_of_query_hits: 1
+            abbreviation: M
+            min_protein_length: 0
+            max_protein_length: 10000
+        MupX:
+            min_number_of_query_hits: 2
+            abbreviation: U
+            min_protein_length: 0
+            max_protein_length: 10000
+refseq:
+    refseq_data: refseqall #refseqall #subdirectory name in the refseq datadir - which database should be processed
+    annotation: /gfs/computations/qs/data/refseq/2018-04-20/annotations/refseqall
+    proteome: /gfs/computations/qs/data/refseq/2018-04-20/proteome/refseqall.faa
+    contig_category_mapping_file: '/gfs/computations/qs/data/refseq/2018-04-20/annotations/contig_refseq_cat.tsv'
+
+taxonomy:
+    taxonomy_dir: /gfs/data/NCBI/2018-04-02/taxonomy/taxonomy
+    filtered_taxonomy_dir: /gfs/computations/qs/results/refseq2018/taxonomy
+    taxa_table_name_file: /gfs/computations/qs/results/refseq2018/taxonomy/taxa.gram.tsv
+    taxon2uppertaxa_table_name_file: /gfs/computations/qs/results/refseq2018/taxonomy/taxon2uppertaxon.tsv
+    gram_info_file: /gfs/computations/qs/data/gram_data/gram_pos_neg_wikipedia_20180822_jj.tsv
+    ranks: 
+        - species
+        - strain
+        - genus
+        - phylum
+database:
+   host_name: dboracle.itk.ppke.hu
+   username: qs
+   password_file: /gfs/computations/quorum-sensing/data/db_password # may be typing manualy? DO NOT UPLOAD to any repo, then
+   tables:
+        system: s00_qs_system_description
+        hmmer_hits: s00_hmmer_hits
+        operon_candidates: s00_operon_candidates
+        operon_candidates_components: s00_operon_candidates_components
+        operon: s00_operon
+        operon_components: s00_operon_components
+        operon_neighbourhood: s00_operon_neighbourhood
+
+
+pipeline_parameters:
+    cpu_cores_hmm_search: 20
+    cpu_cores_annotation_filtering: 20
+    cpu_cores_system_identification: 20
+    hit_e_value_treshold: 10.0e-1
+    multi_hit_e_value_tsh: 10.0e-1
+    operon_windows_size: 10
+    neighbourhood_windows_size: 5
+
+
+output:
+    #the outputname will contain the name of the system and the refseq database it was created with
+    save_dir: /gfs/computations/quorum-sensing/results/refseq2018/auto_generated
+    hmm_hits_raw_output_prefix_dir:  hmmer_search
+    hmm_hits_prefix_dir: hmmer_search_tsv
+    filtered_hmm_hits_postfix: filtered.tsv
+    system_specific_annotations_dirname_postfix: filtered_hits_annotation
+    system_neighborhood_specific_annotations_dirname_postfix: filtered_hits_neighbourhood_annotation
+    act_qs_system_patterns_postfix: 'patterns.tsv'
+    act_qs_system_patterns_summary_postfix: 'patterns_summary.tsv'
+
+pipeline_parts:
+    - hmm_search
+    - hmm_search_conversion
+    - hmm_search_filtering
+    - hmm_search_annotation
+    - qs_system_finding
+#    - upload_to_db
+
+####### POSTPROCESSING INFORMATION #####
+
+
+#Postprocessing parameters:
+postprocessing:
+
+postprocessing_parts:
+    - collect #most of the post processing stuff requere the 'collect' part
+    - filtering
+    - contig_taxa_info
+    - neighbourhood
+    - fetch_operon_info
+    - length_filtering
+    - finalize
+#    - upload_to_db
+postprocessing_parameters:
+    neighbourhood_size: 3
+    cpu_cores_annotation: 22
+    worst_evalue_in_operon: 10.0e-2
+    agg_evalue_in_operon: 10.0e-2
+# plasmids and plastids could cause duplications
+    check_for_plasmid: True
+    check_for_plastid: True
+    output:
+        temp_neighbourhood_output_folder: tmp_pattern_neighbourhood
+        neighbourhood_output_file_postfix: extended_neighbourhood.tsv
+        operon_output_name: operons.tsv
+        operon_components_output_name: operons_components.tsv
+        operon_neighbourhood_output_name: neighbourhood.tsv
+   
+   
+
+postprocessing_filtering_rules:
+    filtering_rules_or:
+        - R
+        - U
+        - I
+    filtering_rules_and: # all the elemetsd should be included
+#        - X
+    
+
+

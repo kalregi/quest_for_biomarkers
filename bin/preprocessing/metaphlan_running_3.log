@@ -1,0 +1,190 @@
+nohup: ignoring input
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260176.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260152.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260136.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260144.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260153.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260161.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260145.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260137.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260174.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260154.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260138.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260146.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260162.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260176_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260176_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260176.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260176.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260152_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260152_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260152.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260152.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260136_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260136_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260136.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260136.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260144_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260144_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260144.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260144.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260153_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260153_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260153.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260153.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260161_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260161_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260161.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260161.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260145_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260145_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260145.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260145.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260137_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260137_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260137.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260137.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260174_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260174_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260174.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260174.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260154_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260154_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260154.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260154.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260138_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260138_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260138.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260138.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260146_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260146_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260146.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260146.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260162_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260162_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260162.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260162.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260155_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260155_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260155.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260155.profile.txtWarning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260155.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260139.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260147.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260175.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260156.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260140.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260148.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260157.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260141.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260177.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260163.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260149.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+BowTie2 output file detected: /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260158.bowtie2out.txt
+Please use it as input or remove it if you want to re-perform the BowTie2 run.
+Exiting...
+
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260139_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260139_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260139.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260139.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260147_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260147_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260147.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260147.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260175_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260175_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260175.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260175.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260156_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260156_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260156.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260156.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260140_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260140_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260140.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260140.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260148_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260148_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260148.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260148.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260157_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260157_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260157.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260157.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260141_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260141_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260141.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260141.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260177_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260177_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260177.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260177.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260163_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260163_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260163.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260163.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260149_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260149_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260149.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260149.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260158_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260158_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260158.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260158.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260142_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260142_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260142.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260142.profile.txt
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260159_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260159_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 24                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260159.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260159.profile.txtWarning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!

@@ -1,0 +1,24 @@
+nohup: ignoring input
+RampelliS_2015 done.
+AsnicarF_2017 done.
+ChngKR_2016 done.
+FengQ_2015 done.
+Heitz-BuschartA_2016 done.
+KarlssonFH_2013 done.
+LeChatelierE_2013 done.
+LiuW_2016 done.
+LomanNJ_2013 done.
+Obregon-TitoAJ_2015 done.
+Traceback (most recent call last):
+  File "abundance_table.py", line 115, in <module>
+    joined = join_metadata(df_dataset, dataset_name)
+  File "abundance_table.py", line 63, in join_metadata
+    df_metadata.AGE, df_metadata.AGE_CATEGORY]).stack()
+  File "/gfs/progs/miniconda3/lib/python3.6/site-packages/pandas/core/frame.py", line 387, in __init__
+    arrays, columns = _to_arrays(data, columns, dtype=dtype)
+  File "/gfs/progs/miniconda3/lib/python3.6/site-packages/pandas/core/frame.py", line 7475, in _to_arrays
+    dtype=dtype)
+  File "/gfs/progs/miniconda3/lib/python3.6/site-packages/pandas/core/frame.py", line 7552, in _list_to_arrays
+    content = list(lib.to_object_array(data).T)
+  File "pandas/_libs/src/inference.pyx", line 1517, in pandas._libs.lib.to_object_array
+TypeError: object of type 'NoneType' has no len()

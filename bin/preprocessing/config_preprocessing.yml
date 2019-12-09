@@ -1,0 +1,104 @@
+source_dir: "/gfs/data/curated_metagenomes/"
+
+#fastqc and multiqc
+qc_report:
+  destination_path: "/gfs/data/curated_metagenomes_qc/"
+  threads: 22
+  outputfolder:
+    original: "raw_qc"
+    trimmed: "trimmed_qc"
+
+#trimmomatic
+trimmomatic:
+  trimmomatic_path: "/gfs/progs/Trimmomatic-0.36/trimmomatic-0.36.jar"
+  destination_path: "/gfs/data/curated_metagenomes_preprocessed"
+  threads: 1
+  outputfolder: "trimmed_files"
+  output_extension:
+    pair_1_ext: ".trimmed"
+    junk_pair_1_ext: ".junk.trimmed"
+    pair_2_ext: ".trimmed"
+    junk_pair_2_ext: ".junk.trimmed"
+    single_ext: ".trimmed"
+    single_junk_ext: ".junk.trimmed"
+  dataset:
+    default:
+      gzip_streaming: True
+      illuminaclip : !!python/tuple ["TruSeq3-PE.fa", 2, 30, 10]
+      leading: 20
+      trailing: 20
+      slidingwindow: !!python/tuple [6, 20]
+      minlen: 36
+      pair: True
+      process: True
+    AsnicarF_2017:
+      name: "AsnicarF_2017"
+      illuminaclip : !!python/tuple ["NexteraPE-PE.fa", 2, 30, 10]
+      process: False
+    BritoIL_2016:
+      name: "BritoIL_2016"
+      process: False
+    Castro-NallarE_2015:
+      name: "Castro-NallarE_2015"
+      pair: False
+      process: False
+    ChngKR_2016:
+      name: "ChngKR_2016"
+      process: False
+    FengQ_2015:
+      name: "FengQ_2015"
+    Heitz-BuschartA_2016:
+      name: "Heitz-BuschartA_2016"
+    HMP_2012:
+      name: "HMP_2012"
+      process: False
+    KarlssonFH_2013:
+      name: "KarlssonFH_2013"
+    LeChatelierE_2013:
+      name: "LeChatelierE_2013"
+    LiuW_2016:
+      name: "LiuW_2016"
+    LomanNJ_2013:
+      name: "LomanNJ_2013"
+      illuminaclip : !!python/tuple ["NexteraPE-PE.fa", 2, 30, 10]
+    NielsenHB_2014:
+      name: "NielsenHB_2014"
+      process: False
+    Obregon-TitoAJ_2015:
+      name: "Obregon-TitoAJ_2015"
+    OhJ_2014:
+      name: "OhJ_2014"
+      process: False
+    OhJ_2016:
+      name: "OhJ_2016"
+      process: False
+    QinJ_2012:
+      name: "QinJ_2012"
+    QinN_2014:
+      name: "QinN_2014"
+    RampelliS_2015:
+      name: "RampelliS_2015"
+    RaymondF_2016:
+      name: "RaymondF_2016"
+      process: False
+    SchirmerM_2016:
+      name: "SchirmerM_2016"
+      illuminaclip : !!python/tuple ["NexteraPE-PE.fa", 2, 30, 10]
+    TettAJ_2016:
+      name: "TettAJ_2016"
+      process: False
+    VatanenT_2016:
+      name: "VatanenT_2016"
+      illuminaclip : !!python/tuple ["NexteraPE-PE.fa", 2, 30, 10]
+    VincentC_2016:
+      name: "VincentC_2016"
+      pair: False
+    VogtmannE_2016:
+      name: "VogtmannE_2016"
+    XieH_2016:
+      name: "XieH_2016"
+    YuJ_2015:
+      name: "YuJ_2015"
+    ZellerG_2014:
+      name: "ZellerG_2014"
+

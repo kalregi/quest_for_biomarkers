@@ -1,0 +1,73 @@
+nohup: ignoring input
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Directory  /gfs/data/curated_metagenomes_metaphlan2/AsnicarF_2017  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/AsnicarF_2017/trimmed_files/SRR4052021_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/AsnicarF_2017/trimmed_files/SRR4052021_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/AsnicarF_2017/SRR4052021.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/AsnicarF_2017/SRR4052021.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/ChngKR_2016  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/ChngKR_2016/trimmed_files/SRR1950699_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/ChngKR_2016/trimmed_files/SRR1950699_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/ChngKR_2016/SRR1950699.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/ChngKR_2016/SRR1950699.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/FengQ_2015  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/FengQ_2015/trimmed_files/ERR688526_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/FengQ_2015/trimmed_files/ERR688526_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/FengQ_2015/ERR688526.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/FengQ_2015/ERR688526.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/Heitz-BuschartA_2016  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/Heitz-BuschartA_2016/trimmed_files/SRR3313037_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/Heitz-BuschartA_2016/trimmed_files/SRR3313037_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/Heitz-BuschartA_2016/SRR3313037.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/Heitz-BuschartA_2016/SRR3313037.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260160_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/KarlssonFH_2013/trimmed_files/ERR260160_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260160.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/KarlssonFH_2013/ERR260160.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/LeChatelierE_2013  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/LeChatelierE_2013/trimmed_files/ERR321107_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/LeChatelierE_2013/trimmed_files/ERR321107_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/LeChatelierE_2013/ERR321107.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/LeChatelierE_2013/ERR321107.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/LiuW_2016  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/LiuW_2016/trimmed_files/SRR3992960_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/LiuW_2016/trimmed_files/SRR3992960_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/LiuW_2016/SRR3992960.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/LiuW_2016/SRR3992960.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/LomanNJ_2013  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/LomanNJ_2013/trimmed_files/ERR260477_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/LomanNJ_2013/trimmed_files/ERR260477_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/LomanNJ_2013/ERR260477.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/LomanNJ_2013/ERR260477.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/Obregon-TitoAJ_2015  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/Obregon-TitoAJ_2015/trimmed_files/SRR1761675_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/Obregon-TitoAJ_2015/trimmed_files/SRR1761675_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/Obregon-TitoAJ_2015/SRR1761675.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/Obregon-TitoAJ_2015/SRR1761675.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/QinJ_2012  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/QinJ_2012/trimmed_files/SRR341631_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/QinJ_2012/trimmed_files/SRR341631_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/QinJ_2012/SRR341631.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/QinJ_2012/SRR341631.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/QinN_2014  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/QinN_2014/trimmed_files/ERR527069_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/QinN_2014/trimmed_files/ERR527069_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/QinN_2014/ERR527069.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/QinN_2014/ERR527069.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/RampelliS_2015  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930123_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930123_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/RampelliS_2015/SRR1930123.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/RampelliS_2015/SRR1930123.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/SchirmerM_2016  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/SchirmerM_2016/trimmed_files/SRR5127415_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/SchirmerM_2016/trimmed_files/SRR5127415_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/SchirmerM_2016/SRR5127415.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/SchirmerM_2016/SRR5127415.profile.txtWarning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+
+Directory  /gfs/data/curated_metagenomes_metaphlan2/VatanenT_2016  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/VatanenT_2016/trimmed_files/SRR4305111_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/VatanenT_2016/trimmed_files/SRR4305111_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/VatanenT_2016/SRR4305111.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/VatanenT_2016/SRR4305111.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/VogtmannE_2016  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/VogtmannE_2016/trimmed_files/ERR1293543_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/VogtmannE_2016/trimmed_files/ERR1293543_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/VogtmannE_2016/ERR1293543.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/VogtmannE_2016/ERR1293543.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/XieH_2016  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/XieH_2016/trimmed_files/ERR911965_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/XieH_2016/trimmed_files/ERR911965_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/XieH_2016/ERR911965.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/XieH_2016/ERR911965.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/YuJ_2015  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/YuJ_2015/trimmed_files/ERR1018191_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/YuJ_2015/trimmed_files/ERR1018191_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/YuJ_2015/ERR1018191.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/YuJ_2015/ERR1018191.profile.txt
+Directory  /gfs/data/curated_metagenomes_metaphlan2/ZellerG_2014  created
+python3 /gfs/progs/metaphlan2_201910/metaphlan2/metaphlan2.py                        /gfs/data/curated_metagenomes_preprocessed/ZellerG_2014/trimmed_files/ERR479057_1.fastq.trimmed.gz,/gfs/data/curated_metagenomes_preprocessed/ZellerG_2014/trimmed_files/ERR479057_2.fastq.trimmed.gz                       --input_type fastq                       --nproc 12                       --bowtie2out /gfs/data/curated_metagenomes_metaphlan2/ZellerG_2014/ERR479057.bowtie2out.txt                                             > /gfs/data/curated_metagenomes_metaphlan2/ZellerG_2014/ERR479057.profile.txt

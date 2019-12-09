@@ -1,0 +1,191 @@
+nohup: ignoring input
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930123.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930123.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930123.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930123_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930123_2.fastq.trimmed.gz
+Loading database information... done.
+37079440 sequences (7010.88 Mbp) processed in 412.848s (5388.8 Kseq/m, 1018.90 Mbp/m).
+  3901358 sequences classified (10.52%)
+  33178082 sequences unclassified (89.48%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929484.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929484.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929484.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1929484_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1929484_2.fastq.trimmed.gz
+Loading database information... done.
+7446997 sequences (1372.90 Mbp) processed in 70.381s (6348.6 Kseq/m, 1170.41 Mbp/m).
+  1265418 sequences classified (16.99%)
+  6181579 sequences unclassified (83.01%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1927149.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1927149.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1927149.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1927149_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1927149_2.fastq.trimmed.gz
+Loading database information... done.
+13886451 sequences (2603.18 Mbp) processed in 144.875s (5751.1 Kseq/m, 1078.10 Mbp/m).
+  1069251 sequences classified (7.70%)
+  12817200 sequences unclassified (92.30%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929563.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929563.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929563.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1929563_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1929563_2.fastq.trimmed.gz
+Loading database information... done.
+13073395 sequences (2422.35 Mbp) processed in 130.804s (5996.8 Kseq/m, 1111.14 Mbp/m).
+  1478247 sequences classified (11.31%)
+  11595148 sequences unclassified (88.69%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930121.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930121.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930121.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930121_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930121_2.fastq.trimmed.gz
+Loading database information... done.
+34385180 sequences (6500.24 Mbp) processed in 330.355s (6245.1 Kseq/m, 1180.59 Mbp/m).
+  4494260 sequences classified (13.07%)
+  29890920 sequences unclassified (86.93%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929485.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929485.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929485.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1929485_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1929485_2.fastq.trimmed.gz
+Loading database information... done.
+4274899 sequences (790.06 Mbp) processed in 23.662s (10840.0 Kseq/m, 2003.37 Mbp/m).
+  731040 sequences classified (17.10%)
+  3543859 sequences unclassified (82.90%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930132.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930132.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930132.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930132_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930132_2.fastq.trimmed.gz
+Loading database information... done.
+4260376 sequences (807.68 Mbp) processed in 24.626s (10380.3 Kseq/m, 1967.89 Mbp/m).
+  615911 sequences classified (14.46%)
+  3644465 sequences unclassified (85.54%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929574.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929574.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929574.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1929574_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1929574_2.fastq.trimmed.gz
+Loading database information... done.
+9750922 sequences (1816.66 Mbp) processed in 89.647s (6526.2 Kseq/m, 1215.88 Mbp/m).
+  979807 sequences classified (10.05%)
+  8771115 sequences unclassified (89.95%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929408.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929408.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1929408.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1929408_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1929408_2.fastq.trimmed.gz
+Loading database information... done.
+30735535 sequences (5862.69 Mbp) processed in 303.470s (6076.8 Kseq/m, 1159.13 Mbp/m).
+  5574463 sequences classified (18.14%)
+  25161072 sequences unclassified (81.86%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930133.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930133.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930133.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930133_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930133_2.fastq.trimmed.gz
+Loading database information... done.
+4799422 sequences (959.64 Mbp) processed in 22.839s (12608.3 Kseq/m, 2521.03 Mbp/m).
+  828795 sequences classified (17.27%)
+  3970627 sequences unclassified (82.73%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930134.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930134.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930134.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930134_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930134_2.fastq.trimmed.gz
+Loading database information... done.
+10542769 sequences (1965.66 Mbp) processed in 93.359s (6775.7 Kseq/m, 1263.30 Mbp/m).
+  831745 sequences classified (7.89%)
+  9711024 sequences unclassified (92.11%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930138.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930138.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930138.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930138_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930138_2.fastq.trimmed.gz
+Loading database information... done.
+4547076 sequences (833.52 Mbp) processed in 45.579s (5985.7 Kseq/m, 1097.24 Mbp/m).
+  478354 sequences classified (10.52%)
+  4068722 sequences unclassified (89.48%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930140.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930140.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930140.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930140_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930140_2.fastq.trimmed.gz
+Loading database information... done.
+7909738 sequences (1490.64 Mbp) processed in 79.874s (5941.7 Kseq/m, 1119.75 Mbp/m).
+  1031267 sequences classified (13.04%)
+  6878471 sequences unclassified (86.96%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930136.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930136.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930136.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930136_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930136_2.fastq.trimmed.gz
+Loading database information... done.
+11568464 sequences (1791.93 Mbp) processed in 86.080s (8063.5 Kseq/m, 1249.03 Mbp/m).
+  980198 sequences classified (8.47%)
+  10588266 sequences unclassified (91.53%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930122.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930122.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930122.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930122_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930122_2.fastq.trimmed.gz
+Loading database information... done.
+14417618 sequences (2691.18 Mbp) processed in 137.430s (6294.5 Kseq/m, 1174.93 Mbp/m).
+  2192477 sequences classified (15.21%)
+  12225141 sequences unclassified (84.79%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930141.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930141.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930141.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930141_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930141_2.fastq.trimmed.gz
+Loading database information... done.
+31405552 sequences (6011.66 Mbp) processed in 320.758s (5874.6 Kseq/m, 1124.52 Mbp/m).
+  4458152 sequences classified (14.20%)
+  26947400 sequences unclassified (85.80%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930128.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930128.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930128.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930128_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930128_2.fastq.trimmed.gz
+Loading database information... done.
+14484442 sequences (2726.94 Mbp) processed in 154.207s (5635.7 Kseq/m, 1061.02 Mbp/m).
+  1434466 sequences classified (9.90%)
+  13049976 sequences unclassified (90.10%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930143.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930143.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930143.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930143_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930143_2.fastq.trimmed.gz
+Loading database information... done.
+5997864 sequences (1085.77 Mbp) processed in 55.795s (6449.9 Kseq/m, 1167.59 Mbp/m).
+  608485 sequences classified (10.15%)
+  5389379 sequences unclassified (89.85%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930145.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930145.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930145.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930145_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930145_2.fastq.trimmed.gz
+Loading database information... done.
+15571930 sequences (2879.31 Mbp) processed in 151.096s (6183.6 Kseq/m, 1143.37 Mbp/m).
+  1536585 sequences classified (9.87%)
+  14035345 sequences unclassified (90.13%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930144.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930144.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930144.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930144_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930144_2.fastq.trimmed.gz
+Loading database information... done.
+4667159 sequences (848.69 Mbp) processed in 25.656s (10914.8 Kseq/m, 1984.78 Mbp/m).
+  418014 sequences classified (8.96%)
+  4249145 sequences unclassified (91.04%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930176.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930176.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930176.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930176_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930176_2.fastq.trimmed.gz
+Loading database information... done.
+4250350 sequences (643.01 Mbp) processed in 21.018s (12133.3 Kseq/m, 1835.58 Mbp/m).
+  393243 sequences classified (9.25%)
+  3857107 sequences unclassified (90.75%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930179.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930179.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930179.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930179_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930179_2.fastq.trimmed.gz
+Loading database information... done.
+3927488 sequences (695.50 Mbp) processed in 21.903s (10758.9 Kseq/m, 1905.25 Mbp/m).
+  394161 sequences classified (10.04%)
+  3533327 sequences unclassified (89.96%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930244.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930244.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930244.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930244_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930244_2.fastq.trimmed.gz
+Loading database information... done.
+7285774 sequences (1357.47 Mbp) processed in 75.652s (5778.4 Kseq/m, 1076.62 Mbp/m).
+  1189066 sequences classified (16.32%)
+  6096708 sequences unclassified (83.68%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930177.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930177.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930177.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930177_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930177_2.fastq.trimmed.gz
+Loading database information... done.
+5038480 sequences (937.88 Mbp) processed in 27.676s (10923.3 Kseq/m, 2033.29 Mbp/m).
+  575992 sequences classified (11.43%)
+  4462488 sequences unclassified (88.57%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930187.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930187.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930187.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930187_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930187_2.fastq.trimmed.gz
+Loading database information... done.
+3107103 sequences (556.16 Mbp) processed in 17.148s (10871.8 Kseq/m, 1946.02 Mbp/m).
+  235221 sequences classified (7.57%)
+  2871882 sequences unclassified (92.43%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930248.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930248.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930248.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930248_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930248_2.fastq.trimmed.gz
+Loading database information... done.
+3898336 sequences (596.85 Mbp) processed in 18.789s (12449.1 Kseq/m, 1906.01 Mbp/m).
+  1323760 sequences classified (33.96%)
+  2574576 sequences unclassified (66.04%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930251.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930251.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930251.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930251_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930251_2.fastq.trimmed.gz
+Loading database information... done.
+1791213 sequences (318.30 Mbp) processed in 10.532s (10204.1 Kseq/m, 1813.28 Mbp/m).
+  445158 sequences classified (24.85%)
+  1346055 sequences unclassified (75.15%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930247.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930247.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930247.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930247_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930247_2.fastq.trimmed.gz
+Loading database information... done.
+1648711 sequences (297.01 Mbp) processed in 9.550s (10358.3 Kseq/m, 1866.00 Mbp/m).
+  590693 sequences classified (35.83%)
+  1058018 sequences unclassified (64.17%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930149.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930149.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930149.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930149_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930149_2.fastq.trimmed.gz
+Loading database information... done.
+3797583 sequences (699.04 Mbp) processed in 21.566s (10565.3 Kseq/m, 1944.82 Mbp/m).
+  259151 sequences classified (6.82%)
+  3538432 sequences unclassified (93.18%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930250.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930250.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930250.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930250_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930250_2.fastq.trimmed.gz
+Loading database information... done.
+1542940 sequences (231.15 Mbp) processed in 7.444s (12436.8 Kseq/m, 1863.13 Mbp/m).
+  570024 sequences classified (36.94%)
+  972916 sequences unclassified (63.06%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930253.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930253.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930253.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930253_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930253_2.fastq.trimmed.gz
+Loading database information... done.
+8716960 sequences (1611.57 Mbp) processed in 64.886s (8060.6 Kseq/m, 1490.21 Mbp/m).
+  2509967 sequences classified (28.79%)
+  6206993 sequences unclassified (71.21%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930255.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930255.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930255.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930255_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930255_2.fastq.trimmed.gz
+Loading database information... done.
+6425576 sequences (1215.88 Mbp) processed in 59.550s (6474.1 Kseq/m, 1225.06 Mbp/m).
+  2543511 sequences classified (39.58%)
+  3882065 sequences unclassified (60.42%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931170.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931170.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931170.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1931170_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1931170_2.fastq.trimmed.gz
+Loading database information... done.
+15460721 sequences (2905.75 Mbp) processed in 126.033s (7360.3 Kseq/m, 1383.32 Mbp/m).
+  5931659 sequences classified (38.37%)
+  9529062 sequences unclassified (61.63%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931177.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931177.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931177.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1931177_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1931177_2.fastq.trimmed.gz
+Loading database information... done.
+2624814 sequences (391.23 Mbp) processed in 12.467s (12632.1 Kseq/m, 1882.81 Mbp/m).
+  758516 sequences classified (28.90%)
+  1866298 sequences unclassified (71.10%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931178.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931178.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931178.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1931178_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1931178_2.fastq.trimmed.gz
+Loading database information... done.
+3071034 sequences (470.85 Mbp) processed in 14.454s (12748.6 Kseq/m, 1954.62 Mbp/m).
+  667934 sequences classified (21.75%)
+  2403100 sequences unclassified (78.25%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930142.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930142.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930142.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930142_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930142_2.fastq.trimmed.gz
+Loading database information... done.
+5115684 sequences (1021.90 Mbp) processed in 23.954s (12813.7 Kseq/m, 2559.64 Mbp/m).
+  655800 sequences classified (12.82%)
+  4459884 sequences unclassified (87.18%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930777.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930777.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1930777.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930777_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1930777_2.fastq.trimmed.gz
+Loading database information... done.
+2621932 sequences (396.78 Mbp) processed in 12.688s (12399.0 Kseq/m, 1876.34 Mbp/m).
+  757163 sequences classified (28.88%)
+  1864769 sequences unclassified (71.12%)
+/gfs/progs/kraken2/kraken2 --report /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931173.report.out --output /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931173.output.out --db /gfs/progs/kraken2/Database/minikraken2/minikraken2_v2_8GB_201904_UPDATE --threads 12 --unclassified-out /gfs/data/curated_metagenomes_kraken2/RampelliS_2015/SRR1931173.unclassified_#.fastq --paired /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1931173_1.fastq.trimmed.gz /gfs/data/curated_metagenomes_preprocessed/RampelliS_2015/trimmed_files/SRR1931173_2.fastq.trimmed.gz
+Loading database information... done.
+22025758 sequences (4190.81 Mbp) processed in 202.696s (6519.8 Kseq/m, 1240.52 Mbp/m).
+  7364475 sequences classified (33.44%)
+  14661283 sequences unclassified (66.56%)
